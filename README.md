@@ -1,2 +1,2 @@
-# javascript-projects
+# Movie app
 API project
